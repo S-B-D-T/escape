@@ -804,7 +804,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 255px;
-  background-image: url("/images/escape1.jpg");
+  background-image: url("./images/escape1.jpg");
   background-position: 50% 50%;
 }
 
