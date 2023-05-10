@@ -55,7 +55,7 @@
 }
 
 .u-section-1 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(".images/163896071.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("./images/163896071.jpg");
   background-position: 0% 50%;
 }
 
@@ -83,7 +83,7 @@
 }
 
 .u-section-1 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(114,99,63,0.65), rgba(114,99,63,0.65)), url(".images/escape7.jpg");
+  background-image: linear-gradient(0deg, rgba(114,99,63,0.65), rgba(114,99,63,0.65)), url("./images/escape7.jpg");
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -108,7 +108,7 @@
 }
 
 .u-section-1 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(".images/163896071.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("./images/163896071.jpg");
   background-position: 100% 50%;
 }
 
@@ -889,7 +889,7 @@
 
 .u-section-4 .u-image-2 {
   min-height: 255px;
-  background-image: url(".images/escape5.jpg");
+  background-image: url("./images/escape5.jpg");
   background-position: 50% 50%;
 }
 
@@ -899,7 +899,7 @@
 
 .u-section-4 .u-image-3 {
   min-height: 255px;
-  background-image: url(".images/escape2.jpg");
+  background-image: url("./images/escape2.jpg");
   background-position: 50% 50%;
 }
 
@@ -909,7 +909,7 @@
 
 .u-section-4 .u-image-4 {
   min-height: 240px;
-  background-image: url(".images/escape6.jpg");
+  background-image: url("./images/escape6.jpg");
   background-position: 50.59% 0%;
   background-size: auto 160%;
 }
@@ -920,7 +920,7 @@
 
 .u-section-4 .u-image-5 {
   min-height: 233px;
-  background-image: url(".images/escape4.jpg");
+  background-image: url("./images/escape4.jpg");
   background-position: 50% 50%;
 }
 
@@ -930,7 +930,7 @@
 
 .u-section-4 .u-image-6 {
   min-height: 233px;
-  background-image: url(".images/escape3.jpg");
+  background-image: url("./images/escape3.jpg");
   background-position: 50% 50%;
 }
 
@@ -1152,7 +1152,7 @@
     order: 2;
   }
 } .u-section-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(".images/163896071.jpg?rand=c52c");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("./images/163896071.jpg?rand=c52c");
   background-position: 50% 50%;
 }
 
@@ -1276,7 +1276,7 @@
 .u-section-6 .u-image-1 {
   height: 223px;
   width: 223px;
-  background-image: url(".images/photo1683672140.jpeg");
+  background-image: url("./images/photo1683672140.jpeg");
   background-position: 50% 50%;
   margin: 10px auto 0;
 }
@@ -1299,7 +1299,7 @@
 .u-section-6 .u-image-2 {
   height: 223px;
   width: 223px;
-  background-image: url(".images/photo1683672095.jpeg");
+  background-image: url("./images/photo1683672095.jpeg");
   background-position: 50% 50%;
   margin: 10px auto 0;
 }
@@ -1322,7 +1322,7 @@
 .u-section-6 .u-image-3 {
   height: 223px;
   width: 223px;
-  background-image: url(".images/photo1683672120.jpeg");
+  background-image: url("./images/photo1683672120.jpeg");
   background-position: 50% 50%;
   margin: 10px auto 0;
 }
@@ -1345,7 +1345,7 @@
 .u-section-6 .u-image-4 {
   height: 223px;
   width: 223px;
-  background-image: url(".images/photo1683672155.jpeg");
+  background-image: url("./images/photo1683672155.jpeg");
   background-position: 50% 50%;
   margin: 10px auto 0;
 }
@@ -1406,7 +1406,7 @@
     width: 340px;
   }
 } .u-section-7 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(".images/jhhhhhh.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("./images/jhhhhhh.jpg");
   background-position: 50% 50%;
 }
 
